@@ -41,7 +41,8 @@ Compile and run the application using your preferred IDE or command line.
 ![image](https://github.com/itzrahul2002/Bank-Management-System/assets/119419147/6f6a8dca-3bd4-4ea8-9552-14d2eb31b866)
 
 # Sign-up Form
-![image](https://github.com/itzrahul2002/Bank-Management-System/assets/119419147/4361a8bc-fad7-4a72-9834-9c38ccba3aec)
+![image](https://github.com/itzrahul2002/Bank-Management-System/assets/119419147/2c1f2451-7145-4823-94a1-6e59c05966a5)
+
 
 # With Validation
 ![image](https://github.com/itzrahul2002/Bank-Management-System/assets/119419147/99ef49b8-2eb5-4b4b-b164-718056047888)
